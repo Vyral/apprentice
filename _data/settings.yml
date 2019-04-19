@@ -10,7 +10,7 @@ custom_links:
   - title: Free Strategy Call
     url: /contact/
 client:
-  name:
+  name: client name
   title:
   license_number:
   about_markdown: |
